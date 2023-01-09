@@ -1,0 +1,5 @@
+!pip install geopandas
+!pip install netcdf4
+%pip install cftime
+!pip install rioxarray
+!pip install pymannkendall
